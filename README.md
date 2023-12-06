@@ -10,7 +10,7 @@ Here, you'll find a collection of my open-source projects, contributions to the 
 ## 🚀 My Skills
 * Programming Languages: JavaScript
 * Web Development: HTML, CSS, React, Node.js
-* Databases: MongoDB, Firebase
+* Databases: MongoDB
 * Version Control: Git, GitHub
 * other: Express.js, Bootstrap, TailwindCSS, Material UI, Mongoose, REST API, handlebars
 
